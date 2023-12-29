@@ -12,7 +12,7 @@ A simple To-Do application backend with CRUD operations.
 
 ## Introduction
 
-Briefly describe your project, its purpose, and any important information.
+This repo like To-Do backend with help of created like node.js mongoose nodemon express schema like this .
 
 ## Features
 
